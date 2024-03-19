@@ -1,0 +1,11 @@
+/* Custom CSS styles */
+
+body {
+    padding-top: 50px; /* Offset for fixed navbar */
+}
+
+.main-section {
+    background-color: #f5f5f5; /* Set background color */
+    padding: 20px 0; /* Add padding */
+    min-height: 1000px; /* Set min height for scrolling */
+}
